@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="FtoC">Fahrenheit to Censius</string>
+    <string name="CtoF">Celsius to Fahrenheit</string>
+    <string name="enter">Enter Temp</string>
+    <string name="converted">Converted Temp</string>
+    <string name="equal">=</string>
+    <string name="conversion">Conversion:</string>
+    <string name="result">Results:</string>
+    <string name="history" />
+    <string name="convert">Convert</string>
+</resources>
